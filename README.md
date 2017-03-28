@@ -5,7 +5,7 @@ This is a remake of the logo of Government College of Engineering and Ceramic Te
 
 ![image_sample](clg-logo256.png)
 
-## image sample
+## image comparision (old vs recreated)
 
 ![comparision_image](comparision.jpg)
 
